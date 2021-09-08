@@ -1,0 +1,22 @@
+ext {
+    isApplication = true
+    /**
+     * app build
+     */
+    android = [
+            applicationId    : "com.smartmqtt.jetpacktest",
+            compileSdkVersion: 28,
+            minSdkVersion    : 17,
+            targetSdkVersion : 28,
+            versionCode      : 1,
+            versionName      : "1.0"
+    ]
+
+    /**
+     * dependencies version
+     */
+    dependencies = [
+            appcompat: "androidx.appcompat:appcompat:1.0.2",
+            gson     : "2.8.5"
+    ]
+}

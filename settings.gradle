@@ -1,0 +1,6 @@
+include ':websocket'
+include ':network'
+include ':testmodel'
+include ':basemodel'
+include ':app'
+rootProject.name = "NodeTools"

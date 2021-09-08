@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NodeTools.iml" filepath="$PROJECT_DIR$/.idea/modules/NodeTools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NodeTools.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NodeTools.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/basemodel/NodeTools.basemodel.iml" filepath="$PROJECT_DIR$/.idea/modules/basemodel/NodeTools.basemodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/network/NodeTools.network.iml" filepath="$PROJECT_DIR$/.idea/modules/network/NodeTools.network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testmodel/NodeTools.testmodel.iml" filepath="$PROJECT_DIR$/.idea/modules/testmodel/NodeTools.testmodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/websocket/NodeTools.websocket.iml" filepath="$PROJECT_DIR$/.idea/modules/websocket/NodeTools.websocket.iml" />
+    </modules>
+  </component>
+</project>
